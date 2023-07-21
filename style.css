@@ -1,0 +1,25 @@
+img {
+    height: 400px;
+    width: 400px;
+    
+}
+.main {
+    background-color: black;
+    height: auto;
+    width: 400px;
+    border: 1px solid red;
+    margin-left: 35%;
+    padding: 10px;
+    
+  }
+  #head {
+   font-style: oblique;
+   color: antiquewhite;
+   text-align: center;
+   text
+  }
+  #para {
+    font-style: oblique;
+    color: antiquewhite;
+    text-align: center;
+   }
